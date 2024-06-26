@@ -19,7 +19,7 @@ using namespace std;
  */
 typedef struct int4values {
     bool Top_present = false, Right_present = false, Left_present = false, Bottom_present = false;
-    int Top = 0, Right = 0, Left = 0, Bottom = 0;  // T,R,B,L
+    int Top = 0, Right = 0, Left = 0, Bottom = 0;  // T,R,B,L test
 } Int4;
 
 /**
